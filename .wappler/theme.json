@@ -1,0 +1,10 @@
+{
+  "bootstrap5": {
+    "basic": {
+      "body-color": "#0D253B",
+      "primary": "#77BF1F",
+      "secondary": "#0D253B"
+    },
+    "advanced": {}
+  }
+}
